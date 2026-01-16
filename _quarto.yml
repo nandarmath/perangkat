@@ -60,7 +60,6 @@ format:
   pdf:
     documentclass: scrreprt
     number-depth: 3
-    pdf-engine: pdflatex
     include-in-header: 
       text: |
         \usepackage{makeidx}
