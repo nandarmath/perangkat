@@ -1,0 +1,13 @@
+## Capaian Pembelajaran
+
+::: callout-note
+Pada akhir Fase F, peserta didik dapat memodelkan pinjaman dan investasi dengan bunga majemuk dan anuitas. Mereka dapat menyatakan data dalam bentuk matriks, dan menentukan fungsi invers, komposisi fungsi dan transformasi fungsi untuk memodelkan situasi dunia nyata. Mereka dapat menerapkan teorema tentang lingkaran, dan menentukan panjang busur dan luas juring lingkaran untuk menyelesaikan masalah. Mereka juga dapat melakukan proses penyelidikan statistika untuk data bivariat dan mengevaluasi berbagai laporan berbasis statistik. Capaian Pembelajaran setiap elemen mata pelajaran Matematika adalah sebagai berikut.
+:::
+
+| Elemen | Capaian Pembelajaran |
+|------------------------------------|------------------------------------|
+| Bilangan | Peserta didik dapat memodelkan pinjaman dan investasi dengan bunga majemuk dan anuitas, serta menyelidiki (secara numerik atau grafis) pengaruh masing- masing parameter (suku bunga, periode pembayaran) dalam model tersebut. |
+| Aljabar dan Fungsi | Peserta didik dapat menyatakan data dalam bentuk matriks. Mereka dapat menentukan fungsi invers, komposisi fungsi, dan transformasi fungsi untuk memodelkan situasi dunia nyata menggunakan fungsi yang sesuai (linear, kuadrat, eksponensial) |
+| Pengukuran | \- |
+| Geometri | Peserta didik dapat menerapkan teorema tentang lingkaran, dan menentukan panjang busur dan luas juring lingkaran untuk menyelesaikan masalah (termasuk menentukan lokasi posisi pada permukaan Bumi dan jarak antara dua tempat di Bumi) |
+| Analisis Data dan Peluang | Peserta didik dapat melakukan proses penyelidikan statistika untuk data bivariat. Mereka dapat mengidentifikasi dan menjelaskan asosiasi antara dua variabel kategorikal (kualitatif) dan antara dua variabel numerikal (kuantitatif). Mereka dapat memperkirakan model linear terbaik *(bestfit)* pada data numerikal (kuantitatif). Mereka dapat membedakan hubungan asosiasi dan sebab-akibat. Peserta didik memahami konsep peluang bersyarat dan kejadian yang saling bebas menggunakan konsep permutasi dan kombinasi |
