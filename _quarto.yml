@@ -10,7 +10,6 @@ book:
     background: primary
   date: "1/12/2026"
   twitter-card: true
-  site-url: https://admpel.riastri.com
   downloads: [pdf, epub]
   sharing: [twitter, facebook]
   chapters:
@@ -60,6 +59,7 @@ format:
   pdf:
     documentclass: scrreprt
     number-depth: 3
+    pdf-engine: pdflatex
     include-in-header: 
       text: |
         \usepackage{makeidx}

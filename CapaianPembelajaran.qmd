@@ -5,7 +5,7 @@ Pada akhir Fase F, peserta didik dapat memodelkan pinjaman dan investasi dengan 
 :::
 
 | Elemen | Capaian Pembelajaran |
-|------------------------------------|------------------------------------|
+|----|----|
 | Bilangan | Peserta didik dapat memodelkan pinjaman dan investasi dengan bunga majemuk dan anuitas, serta menyelidiki (secara numerik atau grafis) pengaruh masing- masing parameter (suku bunga, periode pembayaran) dalam model tersebut. |
 | Aljabar dan Fungsi | Peserta didik dapat menyatakan data dalam bentuk matriks. Mereka dapat menentukan fungsi invers, komposisi fungsi, dan transformasi fungsi untuk memodelkan situasi dunia nyata menggunakan fungsi yang sesuai (linear, kuadrat, eksponensial) |
 | Pengukuran | \- |
