@@ -1,0 +1,53 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Perangkat",
+    "section": "",
+    "text": "Kata Pengantar\nAssalamu’alaikum Warahmatullahi Wabarakatuh Ini merupakan dokumen perangkat pembelajaran saya",
+    "crumbs": [
+      "Kata Pengantar"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "CapaianPembelajaran.html",
+    "href": "CapaianPembelajaran.html",
+    "title": "2  Capaian Pembelajaran",
+    "section": "",
+    "text": "Note\n\n\n\nPada akhir Fase F, peserta didik dapat memodelkan pinjaman dan investasi dengan bunga majemuk dan anuitas. Mereka dapat menyatakan data dalam bentuk matriks, dan menentukan fungsi invers, komposisi fungsi dan transformasi fungsi untuk memodelkan situasi dunia nyata. Mereka dapat menerapkan teorema tentang lingkaran, dan menentukan panjang busur dan luas juring lingkaran untuk menyelesaikan masalah. Mereka juga dapat melakukan proses penyelidikan statistika untuk data bivariat dan mengevaluasi berbagai laporan berbasis statistik. Capaian Pembelajaran setiap elemen mata pelajaran Matematika adalah sebagai berikut.\n\n\n\n\n\n\n\n\n\nElemen\nCapaian Pembelajaran\n\n\n\n\nBilangan\nPeserta didik dapat memodelkan pinjaman dan investasi dengan bunga majemuk dan anuitas, serta menyelidiki (secara numerik atau grafis) pengaruh masing- masing parameter (suku bunga, periode pembayaran) dalam model tersebut.\n\n\nAljabar dan Fungsi\nPeserta didik dapat menyatakan data dalam bentuk matriks. Mereka dapat menentukan fungsi invers, komposisi fungsi, dan transformasi fungsi untuk memodelkan situasi dunia nyata menggunakan fungsi yang sesuai (linear, kuadrat, eksponensial)\n\n\nPengukuran\n-\n\n\nGeometri\nPeserta didik dapat menerapkan teorema tentang lingkaran, dan menentukan panjang busur dan luas juring lingkaran untuk menyelesaikan masalah (termasuk menentukan lokasi posisi pada permukaan Bumi dan jarak antara dua tempat di Bumi)\n\n\nAnalisis Data dan Peluang\nPeserta didik dapat melakukan proses penyelidikan statistika untuk data bivariat. Mereka dapat mengidentifikasi dan menjelaskan asosiasi antara dua variabel kategorikal (kualitatif) dan antara dua variabel numerikal (kuantitatif). Mereka dapat memperkirakan model linear terbaik (bestfit) pada data numerikal (kuantitatif). Mereka dapat membedakan hubungan asosiasi dan sebab-akibat. Peserta didik memahami konsep peluang bersyarat dan kejadian yang saling bebas menggunakan konsep permutasi dan kombinasi",
+    "crumbs": [
+      "Kelas XI",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Capaian Pembelajaran</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "12  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  }
+]
